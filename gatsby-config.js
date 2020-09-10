@@ -9,7 +9,7 @@ module.exports = {
   plugins: [`gatsby-plugin-sass`],
   siteMetadata: {
     title: `Chalymo`,
-    siteUrl: `www.chalymo.com`,
+    siteUrl: `https://github.com/csevere/chalymo`,
     description: `E-commerce store for Black sellers and buyers`,
   },
 }

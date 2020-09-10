@@ -8,7 +8,7 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import purple from '@material-ui/core/colors/purple'
 
-const pastelPurple = purple[200]
+const pastelPurple = purple[300]
 
 const useStyles = makeStyles((theme) => ({
   root: {
